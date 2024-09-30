@@ -9,4 +9,5 @@ resource "aws_s3_bucket" "ssd_bucket" {
     enabled = true
 }
 
+
 }
